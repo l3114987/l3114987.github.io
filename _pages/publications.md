@@ -14,7 +14,7 @@ author_profile: true
      * Presented at POMS Annual Conference, Atlanta, GA (May 2025).
      * Presented at DSI Annual Conference, Phoenix, AZ (Nov 2024).
 
- * "Peer-Based Process Feedback and Voluntary Sourcing Standardization in Franchise Operations: A Field Experiment." with Daniel Kwasnitschka, Keith Skowronski, and Sean M. Handley. Target: Registered Reports Review Initiative at Journal of Operations Management (September 2026).
+ * "Peer-Based Process Feedback and Voluntary Sourcing Standardization in Franchise Operations: A Field Experiment." with Daniel Kwasnitschka, Keith Skowronski, and Sean M. Handley. Under review at the *Journal of Operations Management* (Registered Reports Review Initiative).
 
  * "Intra-brand competition and franchisee autonomy in operating procedures." with Keith Skowronski and Sean M. Handley. Working paper (Target: Spring 2027).
      * Presented at DSI Annual Conference, Atlanta, GA (Nov 2023).
