@@ -10,6 +10,8 @@ author_profile: true
 ## Conference Presentations
 
 * "Operational autonomy and outlet performance: Evidence from a franchise restaurant context"
+  * **DSI** Annual Conference, San Francisco, CA, Nov 2026
+  * **INFORMS** Annual Meeting, San Francisco, CA, Nov 2026
   * **POMS** Annual Conference, Reno, NV, May 2026
   * **DSI** Annual Conference, Orlando, FL, Nov 2025
   * **INFORMS** Annual Meeting, Atlanta, GA, Oct 2025
