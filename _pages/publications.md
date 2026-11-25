@@ -8,13 +8,15 @@ author_profile: true
 ## Working Papers & Dissertation Projects
 
  * "Operational autonomy and outlet performance: Evidence from a franchise restaurant context." with Keith Skowronski and Sean M. Handley. Target: Production and Operations Management (Fall 2026).
+     * Presented at DSI Annual Conference, San Francisco, CA (Nov 2026).  
+     * Presented at INFORMS Annual Meeting, San Francisco, CA (Nov 2026).    
      * Presented at POMS Annual Conference, Reno, NV (May 2026).
      * Presented at DSI Annual Conference, Orlando, FL (Nov 2025).
      * Presented at INFORMS Annual Meeting, Atlanta, GA (Oct 2025).
      * Presented at POMS Annual Conference, Atlanta, GA (May 2025).
      * Presented at DSI Annual Conference, Phoenix, AZ (Nov 2024).
 
- * "Peer-Based Process Feedback and Voluntary Sourcing Standardization in Franchise Operations: A Field Experiment." with Daniel Kwasnitschka, Keith Skowronski, and Sean M. Handley. Under review at the *Journal of Operations Management* (Registered Reports Review Initiative).
+ * "Peer-Based Process Feedback and Voluntary Sourcing Standardization in Franchise Operations: A Field Experiment." with Daniel Kwasnitschka, Keith Skowronski, and Sean M. Handley. Under major revision at the *Journal of Operations Management* (Registered Reports Review Initiative).
 
  * "Intra-brand competition and franchisee autonomy in operating procedures." with Keith Skowronski and Sean M. Handley. Working paper (Target: Spring 2027).
      * Presented at DSI Annual Conference, Atlanta, GA (Nov 2023).
